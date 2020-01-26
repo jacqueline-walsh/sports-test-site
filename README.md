@@ -1,4 +1,4 @@
-# Shopify  - Skill Testing Task
+# Shopify Sports Test Site  - Skill Testing Task
 
 [Sports-Test-Site - Live site](https://sports-test-site.myshopify.com/)
 
