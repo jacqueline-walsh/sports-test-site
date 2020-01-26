@@ -1,0 +1,47 @@
+<div class="page-width">
+    <div class="gallery__section-container">
+        <div class="section-header text-center">
+            <h3> {{ section.settings.title }} <h3>
+        </div>
+        <div class="gallery__inner-container">
+            {% for block in section.blocks %}
+                <div class="gallery__image-container">
+                    <img src=" {{ block.settings.image | img_url: 'master' }}" />
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Gallery Images",
+    "settings": [
+		{
+			"type": "text",
+			"id": "title",
+			"label": "Title",
+			"default": "Gallery Section"	
+		}
+	],
+	"blocks": [
+        {
+            "type": "image",
+            "name": "images",
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "image",
+                    "label": "Gallery Image!"
+                }
+            ]
+        }
+	],
+	"presets": [
+		{
+			"name": "Gallery Images",
+			"category": "Image"
+		}
+	]
+  }
+{% endschema %}
