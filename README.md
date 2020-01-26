@@ -1,6 +1,8 @@
 # Shopify  - Skill Testing Task
 
-[Live site](https://sports-test-site.myshopify.com/)
+[Sports-Test-Site - Live site](https://sports-test-site.myshopify.com/)
+
+<img class="text-center" src="https://shopify-sports-test-site.s3-eu-west-1.amazonaws.com/mac-screen.jpg">
 
 ## Customisation at a glance:
 
@@ -25,7 +27,7 @@ The site is very basis but I have changed some css, where I felt necessary.
 
 The customisation to the feature collection on the home page is where I have the product images flip on hover in order to show the back of the product.  This is a quick and simple change to give potential customer an alternative view without having to click into the product.
 
-I created an about page so the customer as read all about the company.  For this page I included a customised section to show the top brand logos.  
+I created an about page so the customer can get to know all about the company.  For this page I included a customised section to show the top brand logos.   
 
 This was my first glipse at the templating language, Liquid.  Having had experience with Ruby and more recently with python and the Django framework, this was familiar and I felt comfortable in this environment.
 
