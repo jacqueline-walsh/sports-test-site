@@ -11,6 +11,7 @@
 - Create an About page - page.about.liquid
 - Create a new section - logo-images.liquid includes schema
 - Customise CSS - custom.css.liquid
+- Create a new section - gallery.liquid includes schema 
 - Install themekit - VSCode editor used
 - Upload to git repository
 
@@ -27,8 +28,8 @@ The site is very basis but I have changed some css, where I felt necessary.
 
 The customisation to the feature collection on the home page is where I have the product images flip on hover in order to show the back of the product.  This is a quick and simple change to give potential customer an alternative view without having to click into the product.
 
-I created an about page so the customer can get to know all about the company.  For this page I included a customised section to show the top brand logos.   
+I created an about page so the customer can get to know all about the company.  For this page I included a customised section to show the top brand logos and a gallery section.   
 
-This was my first glipse at the templating language, Liquid.  Having had experience with Ruby and more recently with python and the Django framework, this was familiar and I felt comfortable in this environment.
+This was my first insight at the templating language, Liquid.  Having had experience with Ruby and more recently with python and the Django framework, this was familiar and I felt comfortable in this environment.
 
 To be able to work alongside other Shopify colleagues and enhance my knowledge of the Shopify CMS would be a great and exciting opportunity.  
