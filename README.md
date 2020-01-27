@@ -24,7 +24,7 @@ Due to the nature of the task, I have populated the site with product images and
 
 For the custom css, I created a separate file to keep custom code away from the theme code. Also where I have changed templates, snippet or block files I have created duplicate custom files.  
 
-The site is very basis but I have changed some css, where I felt necessary.
+The site is very basic, but I have overridden some of the css, where I felt necessary.
 
 The customisation to the feature collection on the home page is where I have the product images flip on hover in order to show the back of the product.  This is a quick and simple change to give potential customer an alternative view without having to click into the product.
 
